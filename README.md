@@ -8,7 +8,7 @@ Thw group was lead by Emmanuella Benson(Team Lead SH-IT-0014443 ) and Balogun Da
 
 1) David Wilson
 
-(SH-IT-0044720)- Third Section HTML  
+(SH-IT-0044720)- Intro Section CSS
 
 2)FRANCISCA Alliance AKANYANGE
 
