@@ -1,0 +1,25 @@
+.get-started {
+    width: 200px;
+    padding: 15px;
+    color: white;
+    background-color:  hsl(176, 68%, 64%);
+    border-radius: 20px;
+    border-style: none;
+}
+input {
+    width: 60%;
+    padding: 15px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    border-style: none;
+    margin-right: 10px;
+}
+
+
+@media screen and (max-width: 780px) {
+    .input, .get-started {
+        width: 60%;
+        margin-top: 15px;
+    }
+}
