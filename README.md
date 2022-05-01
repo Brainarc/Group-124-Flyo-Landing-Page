@@ -30,6 +30,10 @@ Thw group was lead by Emmanuella Benson(Team Lead SH-IT-0014443 ) and Balogun Da
 
 8)Bukunmi Adeyemo (SH-IT-0008728) -Third section CSS
 
-9) Brimmoi (SH-IT-0122578) - Footer HTML 
+9)Brimmoi (SH-IT-0122578) - Footer HTML 
 
-10) Emmanuella Benson( SH-IT-0014443) - Intro HTML and compilation of all codes.  
+10)Emmanuella Benson( SH-IT-0014443) - Intro HTML and compilation of all codes.
+
+11)Ekundayo Israel (SH-IT-0031182) - Quotes Session CSS and HTML. 
+
+12)Isaac Osei (SH-IT-0079352) - Forth Section HTML (Access Container). 
